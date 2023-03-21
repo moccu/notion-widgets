@@ -1,0 +1,9 @@
+<div style="display:inline-block" id="kf-embed-container-fe21393cdc5be12fe3779acfe0346081"></div>
+<script type="text/javascript" src="https://embed.klipfolio.com/a/js/embed.api"></script>
+<script type="text/javascript">
+KF.embed.embedKlip({
+   profile : "fe21393cdc5be12fe3779acfe0346081",
+   settings : {"width":600,"theme":"light"},
+   title : "Demografie"
+});
+</script>
