@@ -1,0 +1,9 @@
+<div style="display:inline-block" id="kf-embed-container-5986be11d02d6ffbe84500906ea16e5c"></div>
+<script type="text/javascript" src="https://embed.klipfolio.com/a/js/embed.api"></script>
+<script type="text/javascript">
+KF.embed.embedKlip({
+   profile : "5986be11d02d6ffbe84500906ea16e5c",
+   settings : {"width":270,"theme":"light","borderStyle":"round","borderColor":"#cccccc"},
+   title : ""
+});
+</script>
